@@ -1,0 +1,14 @@
+# Visual Studio build artifacts
+build/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+*.VC.db
+*.opendb
+
+# Batch & temporary files
+batch_*.json
